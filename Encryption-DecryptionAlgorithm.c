@@ -5,7 +5,7 @@ int main()
     int i, x;
     char str[100];
 
-    printf("\nPlease enter a string:\t");
+    printf("\nUnesite string:\t");
     gets(str);
 
     printf("\nIzaberite opciju:\n");
