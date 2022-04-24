@@ -8,7 +8,7 @@ int main()
     printf("\nPlease enter a string:\t");
     gets(str);
 
-    printf("\nPlease choose following options:\n");
+    printf("\nIzaberite opciju:\n");
     printf("1 = Encrypt the string.\n");
     printf("2 = Decrypt the string.\n");
     scanf_s("%d", &x);
